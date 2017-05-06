@@ -61,7 +61,7 @@ return @{@"pk_id":pk_id,@"rg_id":rg_id,@"name":name,@"u_id_fk":u_id_fk};
 
 @end
 ```
-DLAddRSSGroupViewController.h
+DLAddRSSGroupViewController.m
 
 ```objc
 DLRSSGroup *RSSGroup = [[DLRSSGroup alloc] init];
