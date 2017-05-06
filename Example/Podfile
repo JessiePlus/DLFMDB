@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DLFMDB_Tests' do
+  pod 'DLFMDB', :path => '../'
+  
+  
+end

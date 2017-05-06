@@ -1,0 +1,6 @@
+framework module DLFMDB {
+  umbrella header "DLFMDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
